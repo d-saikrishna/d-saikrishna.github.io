@@ -85,7 +85,7 @@ img{
   max-width: 70%;
 }
   
-  @media (min-width: 950px)
+  @media (min-width: 700px)
   {
     html {
       font-family: "PT Sans", Helvetica, Arial, sans-serif;
