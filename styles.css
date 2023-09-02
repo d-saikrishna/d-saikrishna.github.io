@@ -1,90 +1,182 @@
 html {
-    font-family: "PT Sans", Helvetica, Arial, sans-serif;
-    line-height: 1.5;
-    font-size: 20px;
-  }
-
-  .sidebar-sticky {
-    position: absolute;
-    right: 1rem;
-    bottom: 1rem;
-    left: 1rem;
-  }
-
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-size: 20px;
+}
+.container {
+  display: block;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  height: 100%;
+}
 .sidebar {
-    padding: 2rem 1rem;
-    position: fixed;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    width: 20rem;
-    text-align: left;
-    background-color: #265a87;
-    color: rgba(255,255,255,.5);
-    box-sizing: border-box;
-  }
+  padding: 1%;
+  width: 100%;
+  text-align: center;
+  background-color: #c00161;
+  color: rgba(255,255,255,.5);
+  box-sizing: border-box;
+}
 
-  .sidebar a {
-    color: #fff;
-    text-decoration: none;
-  }
-  .sidebar a:hover {
-    color: #fff;
-    text-decoration: underline;
-  }
+.sidebar a {
+  color: #fff;
+  text-decoration: none;
+}
+.sidebar a:hover {
+  color: #fff;
+  text-decoration: underline;
+}
 
-  .container {
-    max-width: 38rem;
-    padding-left: 1rem;
-    padding-right: 1rem;
-    margin-left: auto;
-    margin-right: auto;
-  }
+.content {
+  width: 95%;
+  padding: 1%;
+  margin:0;
+  display: block;
+  box-sizing: border-box;
+}
 
-  .sidebar-about h1 {
-    font-size: 2.25rem;
-    font-family: "PT Sans", "Abril Fatface", serif;
-    color: #fff;
-    margin-top: 0;
-  }
+.sidebar-about h1 {
+  font-size: 2.25rem;
+  font-family: "PT Sans", "Abril Fatface", serif;
+  color: #fff;
+  margin-top: 0;
+}
 
-  .sidebar-about .lead {
-    display: block;
-    font-size: 110%;
-  }
+.sidebar-about .lead {
+  display: block;
+  font-size: 110%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin-bottom: .5rem;
+  font-weight: bold;
+  line-height: 1.25;
+  color: #313131;
+  text-rendering: optimizeLegibility;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+ul.sidebar-nav {
+  padding-left: 0;
+  margin-bottom: 1rem;
+  margin-top: 0;
+}
+
+.sidebar-nav-item {
+  display: block;
+  line-height: 1.75;
+}
+
+.sidebar-nav-external {
+  font-size: 80%;
+  display: inline;
+  margin-left: 0.4rem;
+  margin-right: 0.4rem;
+  box-sizing: border-box;
+}
+
+img{
+  max-width: 70%;
+}
   
-  h1, h2, h3, h4, h5, h6 {
-    margin-bottom: .5rem;
-    font-weight: bold;
-    line-height: 1.25;
-    color: #313131;
-    text-rendering: optimizeLegibility;
-  }
+  @media (min-width: 950px)
+  {
+    html {
+      font-family: "PT Sans", Helvetica, Arial, sans-serif;
+      line-height: 1.5;
+      font-size: 20px;
+      margin: 0;
+      padding: 0;
+      height: 100%;
+    }
 
-  p {
-    margin-top: 0;
-    margin-bottom: 1rem;
-  }
-
-  ul.sidebar-nav {
-    padding-left: 0;
-    margin-bottom: 1rem;
-    margin-top: 0;
-  }
-
-  .sidebar-nav-item {
-    display: block;
-    line-height: 1.75;
-  }
-
-  .sidebar-nav-external {
-    font-size: 80%;
-    display: block;
-    margin-left: 0.4rem;
-    margin-right: 0.4rem;
-    box-sizing: border-box;
-  }
-
-  img{
-    max-width: 14rem;
+    body{
+      padding:0;
+      margin:0;
+      height: 100%; 
+    }
+    
+    .container {
+      display: flex;
+      width: 100%;
+      padding: 0;
+      margin: 0;
+      box-sizing: border-box;
+      height: 100%;
+    }
+    
+    .sidebar {
+      width: 22%;
+      text-align: left;
+      background-color: #265a87;
+      color: rgba(255,255,255,.5);
+      overflow: scroll;
+      padding: 1%;
+      margin:0;
+      box-sizing: border-box;
+      height: 100%; /* Ensure the sidebar takes the full height of the container */
+    }
+   
+    .sidebar a {
+      color: #fff;
+      text-decoration: none;
+    }
+    .sidebar a:hover {
+      color: #fff;
+      text-decoration: underline;
+    }
+      
+    .content {
+      padding: 3%;
+      box-sizing: border-box;
+    }
+  
+    .sidebar-about h1 {
+      font-size: 150%;
+      font-family: "PT Sans", "Abril Fatface", serif;
+      color: #fff;
+    }
+  
+    .sidebar-about .lead {
+      display: block;
+      font-size: 110%;
+    }
+    
+    h1, h2, h3, h4, h5, h6 {
+      margin-bottom: .5rem;
+      font-weight: bold;
+      line-height: 1.25;
+      color: #313131;
+      text-rendering: optimizeLegibility;
+    }
+  
+    p {
+      margin-top: 0;
+      margin-bottom: 1rem;
+    }
+  
+    ul.sidebar-nav {
+      padding-left: 0;
+    }
+    
+    .sidebar-nav-item {
+      display: block;
+      line-height: 1.75;
+    }
+  
+    .sidebar-nav-external {
+      font-size: 80%;
+      display: block;
+      box-sizing: border-box;
+    }
+  
+    img{
+      max-width: 95%;
+    }
   }
