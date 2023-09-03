@@ -179,4 +179,48 @@ img{
     img{
       max-width: 95%;
     }
+
+    .tabs{
+      width:70%;
+      display: flex;
+    }
+
+    .tab{
+      width: 15%;
+      display: inline;
+      flex: 1;
+      text-align: center;
+      padding: 1%;
+      background-color: #f0f0f0;
+      cursor: pointer;
+      border: 1px solid #ccc;
+      box-sizing: border-box;
+      margin-right:3%;
+    }
+
+    .tab:hover {
+      background-color: #ddd;
+  }
+
+    .buttons{
+      width:40%;
+      display: flex;
+    }
+  
+    .button{
+        width:15%;
+        display: inline;
+        background-color: #f0f0f0;
+        border: 1px solid #271616;
+        text-align: center;
+        margin: 1%;
+        flex: 1;
+        padding:1%;
+      }
+
+      .button a {
+        color: #000000;
+        text-decoration: none;
+      }
+    
   }
