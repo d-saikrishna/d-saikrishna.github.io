@@ -3,6 +3,10 @@ html {
   line-height: 1.5;
   font-size: 20px;
 }
+
+.dp {
+  max-width: 40%;
+}
 .container {
   display: block;
   width: 100%;
@@ -75,7 +79,7 @@ ul.sidebar-nav {
 
 .sidebar-nav-external {
   font-size: 80%;
-  display: inline;
+  display: inline-block;
   margin-left: 0.4rem;
   margin-right: 0.4rem;
   box-sizing: border-box;
@@ -84,6 +88,49 @@ ul.sidebar-nav {
 img{
   max-width: 70%;
 }
+
+.tabs{
+  width:100%;
+  display: flex;
+}
+
+.tab{
+  width: 25%;
+  display: inline;
+  flex: 1;
+  text-align: center;
+  padding: 1%;
+  background-color: #f0f0f0;
+  cursor: pointer;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  margin-right:3%;
+}
+
+.tab:hover {
+  background-color: #ddd;
+}
+
+.buttons{
+  width:40%;
+  display: flex;
+}
+
+.button{
+    width:15%;
+    display: inline;
+    background-color: #f0f0f0;
+    border: 1px solid #271616;
+    text-align: center;
+    margin: 1%;
+    flex: 1;
+    padding:1%;
+  }
+
+  .button a {
+    color: #000000;
+    text-decoration: none;
+  }
   
   @media (min-width: 1300px)
   {
