@@ -16,7 +16,15 @@ articles.remove('README.md')
 for post in articles:
     title = post.split('/')[-1][:-3]
     if 'Anviksiki' in post:
-          url = 'https://d-saikrishna.github.io/Blogs/Anviksiki/'+title+'.html'
+        url = 'https://d-saikrishna.github.io/Blogs/Anviksiki/'+title+'.html'
+    elif 'Bazaar' in post:
+        url = 'https://d-saikrishna.github.io/Blogs/Bazaar/'+title+'.html'
+    elif 'Samaaj' in post:
+        url = 'https://d-saikrishna.github.io/Blogs/Samaaj/'+title+'.html'
+    elif 'Satta' in post:
+        url = 'https://d-saikrishna.github.io/Blogs/Satta/'+title+'.html'
+    else:
+        url="#"
     fe = fg.add_entry()
     fe.title(title)
     fe.link(href=url)

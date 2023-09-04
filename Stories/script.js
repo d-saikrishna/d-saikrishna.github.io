@@ -19,7 +19,7 @@ function loadTabContent(tabName) {
 
 // Load the content of the first tab by default when the page loads
 window.onload = function () {
-    loadTabContent('kathalu');
+    loadTabContent('natana');
 };
 
 // function togglePost(dir,postName) {
