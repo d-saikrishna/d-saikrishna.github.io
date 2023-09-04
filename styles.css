@@ -82,8 +82,12 @@ ul.sidebar-nav {
 }
 
 .sidebar-nav-item {
-  display: block;
+  display: inline;
   line-height: 1.75;
+}
+
+.sidebar-nav-item::after {
+  content: " | ";
 }
 
 .sidebar-nav-external {
@@ -238,6 +242,10 @@ img{
     .sidebar-nav-item {
       display: block;
       line-height: 1.75;
+    }
+
+    .sidebar-nav-item::after {
+      content: "";
     }
   
     .sidebar-nav-external {
