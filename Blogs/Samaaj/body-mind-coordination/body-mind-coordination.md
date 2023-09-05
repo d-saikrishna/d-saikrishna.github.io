@@ -1,7 +1,7 @@
 # Body mind coordination
 
 Imagine your mind asking you to take a right but you steer your car left (and crash). Or your mind asking you to feed yourself through your mouth, but your hands poke the fork on your face.
-<div style="text-align: center"><img src="rationality-dictionary/poking.webp" width="50%"/></div>
+<div style="text-align: center"><img src="body-mind-coordination/poking.webp" width="50%"/></div>
 
 Medical conditions like Ataxia are about such lack of body-mind coordination. These conditions are generally attributed to the brain – not to muscles. Neurology is the branch of medicine that deals with it.
 
