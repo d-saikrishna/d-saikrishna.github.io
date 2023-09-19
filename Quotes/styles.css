@@ -1,0 +1,71 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    height: 100%;
+    width: 100%;
+}
+
+.container {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.read-logo img{
+    margin-left: 80%;
+    width: 5%;
+}
+.quote {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 4vw;
+    width: 90vw;
+    margin: auto;
+    margin-top: 7%;
+}
+
+.author {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1vw;
+    width: 100vw;
+}
+
+.remark {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2vw;
+    text-align: center;
+    width: 70%;
+    margin: auto;
+}
+
+@media (max-width: 1300px)
+  {
+    .read-logo img{
+        margin-left: 80%;
+        width: 10%;
+    }
+
+    .quote {
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-style: italic;
+        font-size: 32px;
+        text-align: center;
+        width: 90%;
+        margin: auto;
+        margin-top: 10%;
+    }
+    
+    .author {
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-size: 18px;
+        width: 100vw;
+    }
+    .remark {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 24px;
+        text-align: center;
+        width: 70%;
+        margin: auto;
+    }
+}
