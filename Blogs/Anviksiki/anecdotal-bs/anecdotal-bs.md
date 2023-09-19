@@ -4,7 +4,7 @@ I recently attended a meetup where a couple of persons spoke about telepathy, qu
 
 **The math part:**
 If I say, “you are currently thinking about your ex-girlfriend/boyfriend”, I’m sure at least one of my 202 readers would agree to it. The probability of me getting this prediction right with a specific individual is extremely small – 1 in hundreds of topics one could think of. But the probability of me getting my prediction right among the hundreds of readers is decent. Let’s do the math.
-<div style="text-align: center"><img src="anecdotal-bs/bs.webp" width="70%"/></div>
+<div style="text-align: center"><img src="anecdotal-bs/math.jpeg" width="70%"/></div>
 
 There is an 87% chance that one of you feels that I predicted your thought correctly. Which means, I should be able to receive atleast 1 comment, to this post saying that I was able to do online telepathy with you. :p
 
