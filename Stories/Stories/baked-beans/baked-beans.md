@@ -1,3 +1,5 @@
+# Baked beans
+
 I walked towards the ‘Hole in the wall cafe’ in Koramangala. It has no diners, except for a young couple. A couple of years younger to me. They look cute. The guy is making futile attempts to feed her baked beans with his spoon. The girl is resisting, shy and embarrassed. Public display of affection seemed to bother her.
 
 My heart warmed up as they continued to talk, smile and giggle.
