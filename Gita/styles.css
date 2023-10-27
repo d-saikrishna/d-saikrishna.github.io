@@ -16,6 +16,13 @@ body {
     margin-left: 80%;
     width: 5%;
 }
+
+.read-logo p{
+    text-align: right;
+    padding-right: 5%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
 .quote {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-style: italic;
@@ -45,6 +52,13 @@ body {
         margin-left: 80%;
         width: 10%;
     }
+
+    .read-logo p{
+        text-align: right;
+        padding-right: 5%;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    
 
     .quote {
         font-family: Georgia, 'Times New Roman', Times, serif;

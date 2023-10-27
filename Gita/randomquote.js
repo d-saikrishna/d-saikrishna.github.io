@@ -16,7 +16,7 @@ function displayRandomQuote(csvData) {
 
 // Read and parse the CSV file
 function loadquotesCSV() {
-    fetch("Quotes1.csv")
+    fetch("Gita.csv")
       .then(function(response) {
         if (response.ok) {
           return response.text();
