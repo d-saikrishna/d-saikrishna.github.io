@@ -1,6 +1,7 @@
 # Here is the data. Show me the action!
 
-“We have all the information on how bad air pollution is and how it causes a lot of health problems. Yet, where is the Action taken?” asked Maja Daruwala from the India Justice Report. It was the day 1 of Civic Sabha, a dialogue between various data for public good practitioners, organised by CivicDataLab.
+“We have all the information on how bad air pollution is and how it causes a lot of health problems. Yet, where is the Action taken?” asked 
+<a href="https://g.co/kgs/BBEv4y">Maja Daruwala</a> from the India Justice Report. It was the day 1 of Civic Sabha, a dialogue between various data for public good practitioners, organised by CivicDataLab.
 
 I couldn’t wait to interact with her about her question. I read about GI JOE Fallacy. Knowing something is not sufficient to take action on it. I used to ask my therapist a lot of questions on neuroscience, hormones and how they affect my mood. I believed that knowing this information will make me behave better. But we all have friends who smoke despite knowing that tobacco is harmful. Knowing is not enough. Creating datasets is not enough. Ouch, existential crisis!
 
@@ -22,4 +23,6 @@ The problem is, people who are telling you these stories today are intentionally
 
 But, we can also tell truthful stories. Stories that pass through the PFC. Real stories - that would bring in real impact.
 
-I hope Maja was there on the final plenary on day 2. We had Gurman Bhatia and Shrayana Bhattacharya as speakers and they answered her question. They are using datasets to tell these truthful stories. As Shrayana said towards the end, “*Data can be emotional*”
+I hope Maja was there on the final plenary on day 2. We had <a href="https://www.gurmanbhatia.com/about/">Gurman Bhatia</a> and <a href="https://twitter.com/bshrayana?lang=en">Shrayana Bhattacharya</a> as speakers and they answered her question. They are using datasets to tell these truthful stories. Stories that translate data to action.
+
+As Shrayana said towards the end, “*Data can be emotional*”
