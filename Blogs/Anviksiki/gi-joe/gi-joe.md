@@ -11,7 +11,7 @@ And it’s hard. The logical part and the emotional part of the brain seldom tal
 
 Then how can we influence people at an emotional level so that knowledge helps in making better decisions? My answer is Stories.
 
-Stories influence you at an emotional level. They speak to the limbic system. They make you help decide.
+Stories influence you at an emotional level. They speak to the limbic system. They help you decide.
 
 I told this theory of mine to Maja. She added a couple more points that I’m paraphrasing here:
 
@@ -19,7 +19,7 @@ I told this theory of mine to Maja. She added a couple more points that I’m pa
 
 2. *Delusion*: Tell a powerful story that completely hijacks people’s brains. Consider the Israel-Gaza war. You’ll see fake news laden rhetorical narratives on both sides stirring people’s emotions and making them act, even against their own self-interest.
 
-The problem is, people who are telling you these stories today are intentionally bypassing your PFC (logical part of the brain). No, I’m not talking about ‘mass’ movies. There there is consensus between the story teller and audience that logics are bypassed for entertainment purposes. I’m talking about people who appeal to our fear and other worst instincts. They provide a road that bypasses PFC. And if you allow this, there are a numerous fake stories that can be told. You’d emotionally be charged up after listening to each of those stories and act the way they want you to.
+The problem is, people who are telling you these stories today are intentionally bypassing your PFC (logical part of the brain). No, I’m not talking about ‘mass’ movies. There is consensus between the story teller and audience that logics are bypassed for entertainment purposes. I’m talking about people who appeal to our fear and other worst instincts. They provide a road that bypasses PFC. And if you allow this, there are a numerous fake stories that can be told. You’d emotionally be charged up after listening to each of those stories and act the way they want you to.
 
 But, we can also tell truthful stories. Stories that pass through the PFC. Real stories - that would bring in real impact.
 
