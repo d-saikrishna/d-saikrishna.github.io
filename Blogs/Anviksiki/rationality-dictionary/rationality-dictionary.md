@@ -11,7 +11,7 @@ This blog will be a dictionary of it.
 
 - **Anecdotal evidence**: Anecdotal evidence is a personal observation. You yawned and, say, your headache disappeared. It is your personal observation and there is no one denying it. But in the scientific realm, anecdotal evidence is BS.
 
-- **Beliefs**: Beliefs are concepts that are accepted to be true without questioning. I believe that my mom loves me and I'll never question it. It is good if beliefs remain personal.
+- **Beliefs**: Beliefs are concepts that are accepted to be true without questioning. I believe that my mom loves me and I'll never question it. It is good if beliefs remain personal. It is not that I give beleifs an inferior position with respect to Science. Science and Faith are two different buckets and I don't compare them. One should also not mix up things. You can have faith in anything in the world, but for that to be called Science, evidence is needed.
 
 - **Bias**: Knowingly or unknowingly, our minds are inclined towards certain kinds of people, movies and information. Such inclinations influence our thoughts and make us hold irrational beliefs. Examine your biases well.
 

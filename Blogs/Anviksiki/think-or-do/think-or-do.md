@@ -20,7 +20,7 @@ Simple principle, but we are not following it these days. Is it because doing ha
 
 Trial and Error method became Hit and Run.
 
-Ofcourse, thinking alone won't help. There is a famous casestudy shared in "Atomic Habits":
+Of course, thinking alone won't help. There is a famous case study shared in "Atomic Habits":
 
 > Two groups of budding photographers is given an assignment to submit a photograph - one group is asked to click only one photo; other group is allowed to click as many as they want. The second group performs better. This case study is used to promote doing over thinking. Second group did well because they did more, while first group thought more.
 
