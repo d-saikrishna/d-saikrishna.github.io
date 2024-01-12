@@ -15,7 +15,7 @@ This blog will be a dictionary of it.
 
 - **Bias**: Knowingly or unknowingly, our minds are inclined towards certain kinds of people, movies and information. Such inclinations influence our thoughts and make us hold irrational beliefs. Examine your biases well.
 
-- **Burden of proof**: I might claim that my belief is actually a science/fact/truth. That the earth is flat is not a personal belief but is actually a fact. And when I make such claims, it is on me to prove it. Not on those who criticise me to disprove it. 
+- **Burden of proof**: I might claim that my belief is actually a science/fact/truth. That the earth is flat is not a personal belief but is actually a fact. And when I make such claims, it is on me to prove it. Not on those who criticise me to disprove it.  It is also called Hitchens' Razor.
 
 - **Causality**: Any physical effect has a cause. A large part of the scientific endeavour is to find causes of various phenomena. To find the cause, one of the most reliable ways is to conduct an experiment. Take two identical groups, treat one group with medicine and the other with a placebo sugar pill, and if the first group performs differently than the second group - we can say with some confidence that the medicine caused the effect.  
 
