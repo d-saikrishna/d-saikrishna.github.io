@@ -1,4 +1,4 @@
-# Art or Science?
+# The great debate: Art vs Science?
 
 My friend Nanda and I are often inclined to label anything "Science" because that label gives us confidence that we can learn it as well. I cannot even draw a line straight, so anything "Art" is something I tend to keep away.
 
