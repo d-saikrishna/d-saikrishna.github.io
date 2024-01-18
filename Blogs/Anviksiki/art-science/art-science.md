@@ -101,4 +101,4 @@ There is a lot of Science stuff that is needed to make a geospatial analysis. Th
 
 Given my interest with stories and films, I explore another opportunity for this harmony.
 
-Science, when presented artistically, can evoke the beautiful emotion of Adbhuta (Wonder). This is what Carl Sagan did to me with his book and documentary Cosmos. This is what VS Ramachandran did to me with his book "Phantoms in the Brain". I really hope more such stories are told so that science touches us emotionally and thus helps us make decisions.
+Science, when presented artistically, can evoke the beautiful emotion of Adbhuta (Wonder). This is what Carl Sagan did to me with his book and documentary Cosmos. This is what VS Ramachandran did to me with his book "Phantoms in the Brain". I really hope more such stories are told so that science touches us emotionally and thus help us make decisions.
