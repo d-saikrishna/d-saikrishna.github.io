@@ -1,12 +1,12 @@
 # Longing for love
 
-For an aeon of time, poets wrote how love makes life worthy to live. May be that's the only thing that answers my existential crisis. Who is going to love me though? What good am I apart from carrying a good odour?
+For an aeon of time, poets wrote how love makes life worthy to live. May be that's the only thing that answers my existential crisis. Who is going to love me though? What good am I apart from carrying a good fragnance?
 
 To help in finding love, my friends and I are showcased on the streets of Chikmagalur. Humans come to us, date us and take the one they love. Best smelling friends of mine have already been taken by white humans from across the ocean. Average folks like me are only left with desi humans.
 
 As we long for love, we have a guilty pleasure of rating humans who come to see us. If you are stingy with money and bargain a lot, you get a 4 on 10. If you keep thinking who is the best one for you, you get a 3 on 10. If you ever ask if I'm fresh, then fuck you. Sadly, I never found anyone above 5. Will I ever find love? Will I be forced to be with a person I dislike? The thought of this gave me shivers.
 
-One day, a bunch of telugu speaking humans came to select their suitors. The one wearing black shirt is hot - 8 on 10 by looks. After a long time, I felt the urge inside me. I was so enamoured by his smile that I didn't notice the guy next to him pushing his dirty sweaty hand in the bag I live. He grabbed me up close to his nose and started sniffing me like a dog. His hand's smell must have overpowered mine; he threw me down from the height back into my bag. Few of my friends fell on the floor and he stamped on them, killing them of their odour.
+One day, a bunch of telugu speaking humans came to select their suitors. The one wearing black shirt is hot - 8 on 10 by looks. After a long time, I felt the urge inside me. I was so enamoured by his smile that I didn't notice the guy next to him pushing his dirty sweaty hand in the bag I live. He grabbed me up close to his nose and started sniffing me like a dog. His hand's smell must have overpowered mine; he threw me down from the height back into my bag. Few of my friends fell on the floor and he stamped on them, killing them of their fragnance.
 
 The Black shirt guy came next. He lifted me up softly; his hands were as smooth as leaves of pepper plant. He smelled me and boy - that joy on his face when smelled me. I felt this is like my destiny. To bring that joy on his face - again and again. I hope he takes me.
 
@@ -24,4 +24,4 @@ But his situation is becoming worse day by day. He is barely eating anything. He
 
 And finally, he was carried out by a few people completely in White. I can't see their faces. What happened to him? I was screaming from the top of my voice to take me along. My love has not arrived after that. Our jar was forgotten in the home. I waited, waited but of no avail. I have also lost my smell.
 
-The door opened after what I feel like ages. There is still a sliver of hope in me that my love came for me. It was blurry and I cannot see the person. As the person came close, I saw that it was the maid. I hate her, but the familiarity gave me some respite. She was cleaning the home and making it the way it was. But what is the home without love? It's like a coffee bean without caffeine. She came to us at the end. She opened the jar, shoveled us with a spoon and flushed us down the drain.
+The door opened after what I feel like ages. There is still a sliver of hope in me that my love came for me. It was blurry and I cannot see the person. As the person came close, I saw that it was the maid. I hate her, but the familiarity gave me some respite. She was cleaning the home and making it the way it was. But what is the home without love? It's like a coffee bean without caffeine. She came to the jar at the end. She opened the jar, shoveled me with a spoon and flushed me down the drain.
