@@ -5,7 +5,7 @@ India has a great cultural heritage. Intellectual heritage, religious heritage, 
 One of our weird habits is to mix up all these things. We mix up our intellectual heritage with our unfortunate heritage of pseudoscience/superstitions and then validate superstitions today using our past intellectual heritage. This I feel is a grave dishonour to scientists and mathematicians of Indian past. So, in this blog, I will try to draw a **THICK** line between our intellectual heritage of Astronomy and superstition of Astrology.
 
 Aryabhatta, the mathematician-astronomer of ancient India made wonderful discoveries about the space and universe. He wrote Aryabhatiya, the astronomical treatise which consisted of four parts (Padas):
-<div style="text-align: center"><img src="astronomy-astrology/ARYABHATIYAM.png" width="50%"/></div>
+<div style="text-align: center"><img src="astronomy-astrology/ARYABHATIYAM.png" width="100%"/></div>
 (I may have erred in correctly placing the notable work in the relevant Pada)
 
 If you go through the table again, you'll observe one thing. **Aryabhatta did not write that planetary positions will affect your health, marriage and career.** He was not an astrologer. 
