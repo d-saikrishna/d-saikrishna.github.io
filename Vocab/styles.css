@@ -1,0 +1,80 @@
+.body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+    overflow-y: scroll;
+    height: 100vh;
+}
+
+.title {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.spectrum-container {
+    width: 80%;
+    position: relative;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.spectrum-line {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+}
+
+.spectrum-line::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 50%;
+    height: 1px;
+    background-color: black;
+    z-index: 0;
+}
+
+.size-label {
+    position: absolute;
+    top: -22px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: white;
+    padding: 0 10px;
+    font-size: 20px;
+    z-index: 1;
+    font-weight: bold;
+}
+
+.size-category {
+    position: relative;
+    z-index: 1;
+    background-color: white;
+    padding: 0 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.tooltip {
+    position: absolute;
+    background-color: #333;
+    color: #ffffff;
+    padding: 5px;
+    border-radius: 5px;
+    visibility: hidden;
+    z-index: 10;
+    font-size: 14px;
+    max-width: 200px; /* Limit maximum width of tooltip */
+
+}
+
+.spectrum-scroll {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow-y: auto;
+}
+
