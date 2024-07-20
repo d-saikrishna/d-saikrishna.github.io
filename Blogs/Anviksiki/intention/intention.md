@@ -19,3 +19,5 @@ I switched off from these algorithms by resorting to books. I am not arguing tha
 Is this a case against recommendation algorithms? No! Every algorithm has to optimise some metric. I have a problem with the metrics these algorithms are optimising - **Engagement**. As a human, I'm unfortunately more engaged to information that brings out the worst in me. I cannot help it. If algorithms can optimise for a metric that brings out the best in me, I am glad to rely on them. For instance, I have no issue relying on algorithms that recommend me music. They haven't harmed me but only brought the best of the world's music to me. 
 
 To be intentional has been tough but rewarding. My screen time has reduced to less than 2 hours a day. I limited mindless scrolling and useless picking up of my phone. And yes, probably I'm a better actor now :)
+
+    "Let no act be done without a purpose" - Marcus Aurelius
