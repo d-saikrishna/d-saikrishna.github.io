@@ -19,3 +19,11 @@ There are a lot of biases. I will document only those which I have become consci
 
 I'll update this as I discover more in me.
 
+**Update**
+
+I discovered Rolf Dobelli's "Art of Thinking Clearly" a wonderful compendium of all thinking errors we commit.  There are three major ways to reason these thinking errors:
+1. Evolutionary biology
+2. Psychology and cognitive science
+3. Statistics and humans' general challenge with numbers
+
+I don’t think the errors due to our biological evolution can be solved. We cannot compete with what evolution gave us. It’s best to recognize our primal instincts whenever they appear and refrain from making any decisions at those times. Cognitive errors could be managed by managing our environment. The challenge with numbers and statistics can be solved with some training.
