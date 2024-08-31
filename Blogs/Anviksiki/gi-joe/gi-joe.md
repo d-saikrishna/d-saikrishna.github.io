@@ -26,3 +26,8 @@ But, we can also tell truthful stories. Stories that pass through the PFC. Real 
 I hope Maja was there on the final plenary on day 2. We had <a href="https://www.gurmanbhatia.com/about/">Gurman Bhatia</a> and <a href="https://twitter.com/bshrayana?lang=en">Shrayana Bhattacharya</a> as speakers and they answered her question. They are using datasets to tell these truthful stories. Stories that translate data to action.
 
 As Shrayana said towards the end, “*Data can be emotional*”
+
+    “No one ever made a decision because of a number. They need a story.” — Daniel Kahneman
+
+
+
