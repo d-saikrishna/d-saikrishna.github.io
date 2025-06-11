@@ -1,6 +1,6 @@
 # The Tall Sofa
 
-*This is an AI assisted English translation*
+*This essay is originally written in Telugu. The following is an AI assisted English translation*
 
 My mother and I accompanied my aunt to IKEA to help her buy furniture. You know how IKEA is - Carnival! We were walking around, looking at different sofas. Some were too deep, so we rejected them. Some didn’t have nice colors. One by one, we ruled them out for various reasons.
 

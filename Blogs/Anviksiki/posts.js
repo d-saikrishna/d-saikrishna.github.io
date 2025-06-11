@@ -1,4 +1,4 @@
-function openPost(postName, lang = 'te') {
+function openPost(postName, lang = 'en') {
     const fileName = lang === 'en' ? `${postName}_eng.md` : `${postName}.md`;
     const postURL = `${postName}/${fileName}`;
 

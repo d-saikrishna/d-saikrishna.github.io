@@ -1,39 +1,39 @@
-# Words and meanings
+# పదాలు, వాటి అర్థాలు. 
 
-"I hate Hinduism" tweeted a bird on X. 
-A few other birds tweeted, "I hate Secularism"; "I love Sanathana Dharma" etc.,
+*This essay is originally written in English. This Telugu translation is AI assisted by [Sarvam Translate](https://www.sarvam.ai/blogs/sarvam-translate)*
 
-Despite the differences in their love and hate, there was one commonality among them.
+"హిందూ మతాన్ని ద్వేషిస్తున్నాను" అని ఒక పక్షి X లో ట్వీట్ చేసింది. మరికొన్ని పక్షులు "లౌకికవాదాన్ని ద్వేషిస్తున్నాను"; "సనాతన ధర్మాన్ని ప్రేమిస్తున్నాను" అని ట్వీట్ చేశాయి.
 
-**None of them knew what these words mean** - Hinduism, Secularism, Sanathana Dharma etc. 
+ప్రేమ ద్వేషాల మధ్య భేదాలు ఉన్నప్పటికీ, వారిలో ఒక ఉమ్మడి అంశం ఉంది.
 
-And yet, they were able to develop strong emotions of love and hate towards them. They would vote and do politics based on these emotions. They are willing to recreate a new world based on their emotions.
+హిందూ మతం, లౌకికవాదం, సనాతన ధర్మం మొదలైన పదాల అర్థం ఏమిటో వారికి తెలియదు.
 
-All this not even knowing the meaning of the words.
+అయినా వాటి పట్ల ప్రేమ ద్వేషం వంటి బలమైన భావోద్వేగాలను పెంపొందించుకోగలిగారు. ఆ భావోద్వేగాల ఆధారంగా ఓటు వేస్తారు, రాజకీయాలు చేస్తారు. తమ భావోద్వేగాల ఆధారంగా కొత్త ప్రపంచాన్ని పునర్నిర్మించడానికి సిద్ధంగా ఉన్నారు.
 
-But why? Why have we developed this bad thinking?
+ఇదంతా పదాల అర్థం తెలియకుండానే.
 
-The fallacy of **guilt by association** gives one explanation. Let me explain.
+కానీ ఎందుకు? ఈ చెడు ఆలోచనను ఎందుకు పెంపొందించుకున్నాం?
 
-Even though we don't know meanings of these words, we know with whom these words got associated often.
+**అనుబంధ దోషం (Guilt by Association)** అనే తార్కిక దోషం ఒక వివరణ ఇస్తుంది. వివరిస్తాను.
 
-Ajinomoto got associated with China (Chinese Salt), despite it being a Japanese company that makes MSG.
-<br>Secularism got associated with Congress Party.
-<br>Hinduism got associated with the BJP.
+ఈ పదాల అర్థాలు తెలియకపోయినా, ఈ పదాలు తరచుగా ఎవరితో అనుబంధం కలిగి ఉన్నాయో తెలుసు.
 
-So if you hate China, you'll carry forward that hate to MSG as well.<br> 
-If you hate Congress, you'd carry forward that hatred for Secularism as well.<br>
-If you hate BJP, you'd carry forward that hatred for Hinduism as well.
+అజినోమోటో చైనాతో (చైనీస్ ఉప్పు) అనుబంధం కలిగి ఉంది, దీనిని తయారు చేసేది ఒక జాపనీస్ కంపెనీ అయినప్పటికీ (MSG).
+<br>లౌకికవాదం అనే పదం కాంగ్రెస్ పార్టీతో అనుబంధం కలిగి ఉంది.
+<br>హిందూ మతం అనే పదం BJP తో అనుబంధం కలిగి ఉంది.
 
-I'm not passing a judgment here whether MSG, Secularism or Hindusim deserves hate or not. You are free to decide that.
-But decide based on your understanding of these words. Not on the basis of their associations.
+కాబట్టి మీరు చైనాను ద్వేషిస్తే, ఆ ద్వేషాన్ని MSG కి కూడా తీసుకువెళతారు.<br>
+మీరు కాంగ్రెస్ ను ద్వేషిస్తే, లౌకికవాదం పట్ల కూడా ఆ ద్వేషాన్ని తీసుకువెళతారు.<br>
+మీరు BJP ని ద్వేషిస్తే, హిందూ మతం పట్ల కూడా ఆ ద్వేషాన్ని తీసుకువెళతారు.
 
-There is a quirky quote by Dr. Anand Ranganathan, "If Modi promotes Pranayama, Modi haters would stop breathing". This is guilt by association.
+MSG, లౌకికవాదం లేదా హిందూ మతం ద్వేషానికి అర్హమైనదా కాదా అనే తీర్పును నేను ఇక్కడ ఇవ్వడం లేదు. మీరు నిర్ణయించుకోవడానికి స్వేచ్ఛగా ఉన్నారు. కానీ ఈ పదాల గురించి మీకున్న అవగాహన ఆధారంగా నిర్ణయించుకోండి. వాటి అనుబంధాల ఆధారంగా కాదు.
 
-Problematic people can hold decent opinions. <br>
-Decent people can hold problematic opinions.
+డాక్టర్ ఆనంద్ రంగనాథన్ ఒక విచిత్రమైన మాట చెప్పారు, "మోడీ ప్రాణాయామం చేస్తే, మోడీని ద్వేషించేవారు ఊపిరి పీల్చడం ఆపేస్తారు". ఇది అనుబంధ దోషం.
 
-We should be able to judge the issue at hand without getting distracted.
+సమస్యాత్మక వ్యక్తులు మంచి అభిప్రాయాలను కలిగి ఉండగలరు.<br>
+మంచి వ్యక్తులు సమస్యాత్మక అభిప్రాయాలను కలిగి ఉండగలరు.
+
+మనం పరధ్యానం కలగకుండా సమస్యను అంచనా వేయగలగాలి.
 
         " మాటల కర్ధం మరచిపోయారంటే, ఆచారాల కర్ధం అసలే ఎగిరిపోయిందన్న మాట "
-                                                 -- Taapi Dharma Rao
+                                                 -- తాపీ ధర్మారావు 
