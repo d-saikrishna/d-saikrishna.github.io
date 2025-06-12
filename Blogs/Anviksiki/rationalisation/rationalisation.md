@@ -1,30 +1,40 @@
-# ఎత్తైన సోఫా 
+# The Tall Sofa
 
-మా పెద్దమ్మ వాళ్ళ ఇంటికి furniture కొనడానికి నేను, అమ్మ IKEAకి తోడుగా వెళ్ళాము. IKEA సంగతి తెలిసిందే కదా. జాతర. అలా నడుస్తూ సోఫాలు అన్నీ చూస్తున్నాం. కొన్ని సోఫాలు లోతుగా ఉన్నాయి అని వద్దనుకున్నాము. కొన్ని రంగు బాలేదని. అలా ఏవేవో కారణాలు. చివరికి ఒక్క కారణం అందరూ భలంగా అనుకున్నారు.
+*This essay is originally written in Telugu. The following is an AI assisted English translation*
 
-"మీరు TV ముందే ఎక్కువగా ఉంటారు కదా! Head Rest ఉండేలా ఎత్తైన సోఫా తీసుకోండి. లేక పోతే మెడ నొప్పి వస్తుంది." అని అమ్మ పెద్దమ్మకి చెప్పింది. అలా మరో చిన్న సోఫా వద్దనుకున్నాం.
+My mother and I accompanied my aunt to IKEA to help her buy furniture. You know how IKEA is - Carnival! We were walking around, looking at different sofas. Some were too deep, so we rejected them. Some didn’t have nice colors. One by one, we ruled them out for various reasons.
 
-జాతరలో ఇంకా ముందుకి వెళ్ళాము. కాళ్ళు లాగడం మొదలు పెట్టాయి. నీరసం వస్తుంది. మాకు కావాల్సిన ఎత్తైన సోఫా దొరకలేదు. చివరికి ఆ ఎత్తు తప్ప మిగిలినవన్నీ ఉన్న సోఫా ఒకటి కనిపించింది.
+Then, everyone thought hard and settled on one key criterion:
 
-"మెడ నొప్పి వస్తే ఎక్కువ సేపు TV చూడరు. ఇదే better." అని అమ్మ అనింది.
+“You spend a lot of time in front of the TV, right? Choose a high-back sofa with a headrest. Otherwise, you’ll get neck pain,” my mom told my aunt. So we ruled out another small sofa.
 
-నేను shock అయ్యాను.
+We walked further through the furniture section. Our legs started to ache, and we were getting tired. We still hadn’t found a high-back sofa that we liked. Finally, we found a sofa that checked all the boxes—except it didn’t have a high back.
 
-"అటు ఇటు నువ్వే వాదించేస్తావ్ ఏంటి mummy?" అని అడిగితే అమ్మ నవ్వి మిగితా furniture కొనే పనిలో పడిపోయింది.
+“If your neck starts to hurt, you won’t watch too much TV. This is better,” my mom said.
 
-ఇంటికి వచ్చాక ఈ సంఘటన నెమరు వేసుకుంటే చాలా ఆలోచనలు వచ్చాయి. చిన్నప్పుడు చదివిన [నక్క ద్రాక్ష కథ](https://read.gov/aesop/005.html) గుర్తొచ్చింది. మాకు కావాల్సిన సోఫా దొరకలేదని, దొరికిన సోఫా ఏ మాకు కావాల్సిందని మమ్మల్ని మేము నమ్మించుకున్నాము. షాపింగ్ లోనే కాదు. మనం అన్ని విషయాల్లో ఇలానే చేస్తాం కదా!
+I was shocked.
 
-కోరుకున్న Promotion రాలేదనుకోండి. మంచికేగా, అసలు ఆ promotion వచ్చి ఉంటే చాలా నష్టం జరిగుండేదని సర్దిచెప్పుకుంటాము.
-కోరుకున్న మొగుడో పెళ్లామో రాలేదనుకోండి. మిగితా మొగుడ్లు పెళ్ళాలు ఎంత భయంకరంగా ఉన్నారో అని క్రూరమైన వాళ్ళతో పోలిక చేసి వచ్చిన్న వాళ్ళే నయమని సర్దిచెప్పుకుంటాము.
+“How can you argue both sides, mummy?” I asked.
 
-ఇదేమి తప్పు కాదు. కోరుకున్నవన్నీ మనకి దొరకవు. అలా అని చెప్పి బాదతో క్రుంగిపోలేము కదా. ఇలా సర్దిచెప్పుకుని వర్తమానంతో రాజీ పడతాం. ఈ అలవాటే మానవాళిలో లేకపోయింటే ఇప్పటికి బాదతో అంతరించి పోయేవాళ్ళం.
+She just laughed and moved on to buying the rest of the furniture.
 
-అలా అని చెప్పి ఇదేమి గొప్ప విషయం కూడా కాదు. ఇది ఒక అలవాటు అంతే. దీని వళ్ళ మేము మొదటగా అనుకున్న ఎత్తైన సోఫా తీసుకోకపోవడమే కాదు. అసలు మాకు అది సరికాదు అని చెప్పుకున్నాము. సోఫా కొనడం వరకు ఈ అలవాటు పెద్ద ఇబ్బంది పెట్టదు. కానీ మనం జీవితంలో అన్నీ ఇలా సర్దిచెప్పుకుంటూ పోతే ఆకరికి మనకి ఏమి కావాలో అది దొరకకపోవడమే కాదు, అసలు మనకి ఏం కావాలో మనకే తెలియకుండా పోతుంది.
-<div style="text-align: center"><img src="rationalisation/ikea_sofa.png" width="100%"/></div>
+When I got home and thought about the incident, a lot of things started making sense. It reminded me of the [story of the fox and the grapes](https://read.gov/aesop/005.html) from childhood. We didn’t get the sofa we originally wanted, so we convinced ourselves that the one we bought was what we actually needed.
 
-ఈ అలవాటునే Sigmund Freud "Rationalisation" అని అన్నారు. ఈ అలవాటును మనం తొలగించుకోలేము. ఇందాక చెప్పినట్టు ఇది మనకి తాత్కాలికంగా చాలా ఉపయోగపడ్తుంది కూడా. కానీ ఈ అలవాటును అదుపులో పెట్టుకోవడం మంచిది. లేదంటే మన లోతైన కోరికలకి మనమే ముసుగు వేసేసి బ్రతికేసే ప్రమాదం ఉంది. ఎప్పుడో అప్పుడు ఈ ముసుగు పోతుంది. అప్పుడు మనం ఎలా అయితే జీవితం ఉండద్దు అనుకున్నామో అలానే బ్రతుకుతున్నాం అని తెలిసి క్రుంగిపోతాము.
+And it’s not just with shopping. We do this in all areas of life, don’t we?
 
-మరి ఈ అలవాటును అదుపులో ఎలా పెట్టుకోవాలి? నాకు తెలియదు. అలవాటు తీవ్రత బట్టి సైకొలోగిస్ట్ సహయాం తీసుకోవాలి. కానీ నా సోఫా వృత్తాంతం నాకో పాఠం నేర్పింది. IKEAకి వెళ్ళే ముందే మాకు ఏం కావాలో కచ్చితంగా కారణాలతో సహ రాసుకుని ఉంటే ఈ అలవాటు అదుపు తప్పేది కాదేమో. వేరే ఏ కారణం వల్లనైనా ఎత్తైన సోఫా కాకుండా చిన్న సోఫా తీసుకున్నప్పటికి, ఇక తప్పలేదు అని అనుకునే వాళ్ళం. దాని వాళ్ళ తాత్కాలికంగా కోరుకుంది దక్కలేదు అని కొంచం బాద పడినప్పటికీ, మమ్మల్ని మేము మోసం చేసుకునే వాళ్ళం కాదు కదా.
+Didn’t get that promotion you were aiming for? We tell ourselves, “It’s probably for the best. If I had gotten it, I might have suffered in the new role.”
 
-అలానే మనకి ఏం కావాలో కచ్చితంగా డైరీలో రాసుకోడం మంచిది. అవి దొరకకపోతే మన మెదడు మనకు బాద తగ్గించడానికి ఇలాంటి స్టంట్స్ ఎన్నయినా వేస్తుంది. అలాంటప్పుడు మనం రాసుకున్న డైరీ ఏ మనల్ని మనం మోసం చేసుకోకుండా ఆపడంలో సహాయ పడుతుంది.  
+Didn’t end up marrying the person you dreamed of? We compare them with some cruel or problematic spouses and conclude, “The one I ended up with is much better.”
+
+This isn’t wrong. We don’t always get what we want, and we can’t let ourselves drown in sorrow. So we tell ourselves these stories and make peace with the present. If humans didn’t have this ability, we probably would have been wiped out long ago from the weight of our regrets.
+
+But that doesn’t mean it’s something to glorify either. It’s just a habit. The downside is, we not only compromise on what we initially wanted—we start convincing ourselves we never wanted it in the first place. That’s harmless when it comes to buying a sofa, but in life, if we keep rationalizing everything, we risk forgetting what we truly want deep down.
+<div style="text-align: center"><img src="rationalisation/ikea_sofa_eng.png" width="100%"/></div>
+
+
+The psychological term for this, coined by Sigmund Freud, is **Rationalization**. We can’t completely rid ourselves of this habit—like I said, it’s often useful in the short term. But we should learn to manage it. Otherwise, we end up hiding our deepest desires even from ourselves. And someday, that mask falls off, and we realize we’ve been living the very life we once swore we didn’t want. That realization can be devastating.
+
+So how do we keep this habit in check? I don’t fully know. Depending on its intensity, we might need the help of a psychologist. But my little sofa incident taught me a lesson: If we had written down clearly what we were looking for in a sofa—along with the reasons—before going to IKEA, maybe we wouldn’t have let this habit take over. Even if we had eventually chosen a different sofa, we’d have known why, and we wouldn’t have deceived ourselves.
+
+Similarly, writing down what we truly want—clearly and with reasons—in a journal can help. If we don’t get what we want, our brain will do its tricks to ease the pain. In those moments, our journal can help us stay honest with ourselves and avoid self-deception.
 <hr>

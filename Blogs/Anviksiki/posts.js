@@ -1,5 +1,5 @@
 function openPost(postName, lang = 'en') {
-    const fileName = lang === 'en' ? `${postName}_eng.md` : `${postName}.md`;
+    const fileName = lang === 'en' ? `${postName}.md` : `${postName}_tel.md`;
     const postURL = `${postName}/${fileName}`;
 
     fetch(postURL)
