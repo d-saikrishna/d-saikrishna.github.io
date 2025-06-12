@@ -9,6 +9,15 @@
         <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.1.0/showdown.min.js"></script>
         <script src="scripts.js"></script>
         <script type="text/javascript">
+        const originalTitle = document.title;
+
+        document.addEventListener("visibilitychange", function () {
+        if (document.hidden) {
+            document.title = "💔 You left me";
+        } else {
+            document.title = originalTitle;
+        }
+        });
           (function(c,l,a,r,i,t,y){
               c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
               t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
