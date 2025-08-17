@@ -59,7 +59,7 @@ It raises a question if all of this is eventual. The USA and its trans-atlantic 
 
 In a paper, ["Technological Sovereignty as Ability, Not Autarky"](https://www.ifo.de/en/cesifo/publications/2021/working-paper/technological-sovereignty-ability-not-autarky), the authors re-define technological sovereignty from a zero-sum approach to a competence-based definition. Under this re-defintion, a country is still technologically sovereign,  if it is competent in a technology, immaterial of its exclusive control on it. Here's a small framework that analyses countries' opensource strategies under this re-definiton.
 
-![alt text](framework.png)
+<div style="text-align: center"><img src="openness-strategicchoice/framework.png" width="100%"/></div>
 
 1. **Proprietary tech | High Autarky- Low Ability:**  There is zero scope for open source here. Countries want to control the technology that is being used by their citizens, even at the expense of the ability of the software. One extreme example of this is RedStar OS, the Operating System used in North Korea. [It is designed to surveil their citizens](https://www.youtube.com/watch?v=8LGDM9exlZw).China developed Gitee as an alternative to GitHub. It is not only a proprietary software like GitHub, but is also being used to [censor open source code](https://www.technologyreview.com/2022/05/30/1052879/censoring-china-open-source-backfire/). 
 
