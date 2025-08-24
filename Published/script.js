@@ -1,3 +1,25 @@
+function openTab(tabName) {
+    // Hide all contents
+    document.querySelectorAll(".tab-content").forEach(el => el.style.display = "none");
+
+    // Show the selected tab
+    const tabElement = document.getElementById(tabName + "-content");
+    if (tabElement) {
+        tabElement.style.display = "block";
+        loadTabContent(tabName); // ✅ make sure content loads
+    }
+
+    // Update URL hash
+    window.location.hash = tabName;
+}
+
+// On page load, check if URL has a hash
+window.addEventListener("load", () => {
+    let tab = window.location.hash.substring(1); // remove '#'
+    if (!tab) tab = "research"; // default tab
+    openTab(tab);
+});
+
 function loadTabContent(tabName) {
     // Define the URL of the HTML file for the corresponding tab
     let tabURL = tabName + '-content.html';
