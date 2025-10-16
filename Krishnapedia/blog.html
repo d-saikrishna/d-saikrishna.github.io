@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Loading Blog...</title>
+	<link rel="stylesheet" href="https://d-saikrishna.github.io/styles.css">
+	<link rel="stylesheet" href="styles/blog.css">
+</head>
+<body>
+	<div class="container">
+		<div class="sidebar">
+			<div class="sidebar-about">
+				<img src="https://d-saikrishna.github.io/assets/me.png">
+				<h1 id="name"></h1>
+				<p id="description" class="lead"></p>
+			</div>
+
+			<ul id="menu" class="sidebar-nav">
+				<!-- <li class="sidebar-nav-item">
+					<a href="https://d-saikrishna.github.io/Blogs/index.html">Blogs</a>
+				-->
+			</ul>
+
+			<ul id="socialmedia" class="sidebar-nav">
+				<!-- <li class="sidebar-nav-external">
+					<img class="externalicon" src="assets/github.png">
+					<a href="https://github.com/d-saikrishna">GitHub</a>
+				-->
+			</ul>
+		</div>
+
+		<div class="content">
+			<a href="index.html" class="back-link">&larr; Back to Krishnapedia</a>
+			<article id="blog-content">Loading...</article>
+            <hr>
+            <div id="disqus_thread"></div>
+        <script>
+            /**
+            *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+            *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+            /*
+            var disqus_config = function () {
+            this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+            this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+            };
+            */
+            (function() { // DON'T EDIT BELOW THIS LINE
+            var d = document, s = d.createElement('script');
+            s.src = 'https://dkrishna.disqus.com/embed.js';
+            s.setAttribute('data-timestamp', +new Date());
+            (d.head || d.body).appendChild(s);
+            })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+        <script id="dsq-count-scr" src="//dkrishna.disqus.com/count.js" async></script>
+
+		</div>
+	</div>
+
+	<script src="https://d-saikrishna.github.io/dynamic-sidebar.js"></script>
+	<!-- Load marked.js from CDN -->
+	<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+	<script>
+		const params = new URLSearchParams(window.location.search);
+		const slug = params.get('title');
+
+		if (!slug) {
+			document.getElementById('blog-content').innerHTML = '<p>Invalid blog title.</p>';
+		} else {
+			// First, load the blog metadata to get the date
+			fetch('blogs/blogs-list.json')
+				.then(res => res.json())
+				.then(blogsList => {
+					const blogMeta = blogsList.find(b => b.slug === slug);
+					
+					// Then load the markdown file
+					const mdFilePath = `blogs/${slug}.md`;
+					return fetch(mdFilePath)
+						.then(res => {
+							if (!res.ok) throw new Error('Blog not found');
+							return res.text();
+						})
+						.then(md => {
+							const html = marked.parse(md);
+							
+							// Format date if available
+							let dateHtml = '';
+							if (blogMeta && blogMeta.date) {
+								const dateObj = new Date(blogMeta.date);
+								const formattedDate = dateObj.toLocaleDateString('en-US', { 
+									year: 'numeric', 
+									month: 'long', 
+									day: 'numeric' 
+								});
+								dateHtml = `<p style="color: #999; font-size: 0.85em; margin: 0 0 1rem 0; text-align: right;">${formattedDate}</p>`;
+							}
+							
+							document.getElementById('blog-content').innerHTML = html + dateHtml;
+							document.title = slug.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
+						});
+				})
+				.catch(() => {
+					document.getElementById('blog-content').innerHTML = '<p>Blog not found.</p>';
+				});
+		}
+	</script>
+</body>
+</html>

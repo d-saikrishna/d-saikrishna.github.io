@@ -1,0 +1,84 @@
+body {
+	font-family: Arial, sans-serif;
+	margin: 2rem;
+	background-color: #f5f5f5;
+}
+
+h1 {
+	margin-bottom: 1rem;
+	color: #333;
+}
+
+.nav-button {
+	margin: 0.25rem;
+	padding: 0.5rem 1rem;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+	color: white;
+	font-weight: bold;
+	transition: background-color 0.3s ease;
+}
+
+.nav-button:hover {
+	opacity: 0.9;
+}
+
+.nav-button.science {
+	background-color: #007bff;
+}
+.nav-button.philosophy {
+	background-color: #28a745;
+}
+.nav-button.stats {
+	background-color: #c200b8;
+}
+.nav-button.society {
+	background-color: #ff4d07;
+}
+.nav-button.politics {
+	background-color: #000000;
+}
+.nav-button.all {
+	background-color: #6c757d;
+}
+
+.blog-item {
+	padding: 0.75rem 1rem;
+	margin: 0.5rem 0;
+	border-left: 5px solid;
+	background-color: white;
+	display: block;
+	text-decoration: none;
+	color: #333;
+	border-radius: 4px;
+	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+	transition: transform 0.2s ease;
+}
+
+.blog-item:hover {
+	transform: translateX(4px);
+	background-color: #f0f8ff;
+}
+
+.science-border {
+	border-color: #007bff;
+}
+.philosophy-border {
+	border-color: #28a745;
+}
+.stats-border {
+	border-color: #c200b8;
+}
+.society-border {
+	border-color: #ff4d07;
+}
+.politics-border {
+	border-color: #000000;
+}
+
+hr {
+	margin: 1.5rem 0;
+	border: none;
+	border-top: 1px solid #ddd;
+}

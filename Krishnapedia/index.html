@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Krishnapedia</title>
+    <link rel="stylesheet" href="https://d-saikrishna.github.io/styles.css">
+	<link rel="stylesheet" href="styles/index.css">
+	<style>
+		body {
+			margin: 0;
+			padding: 0;
+		}
+	</style>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.1.0/showdown.min.js"></script>
+  <script type="text/javascript">
+        const originalTitle = document.title;
+
+        document.addEventListener("visibilitychange", function () {
+        if (document.hidden) {
+            document.title = "💔 You left me";
+        } else {
+            document.title = originalTitle;
+        }
+        });
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "itr8gkl2n0");
+</script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2ZTT8BJV0Z"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'G-2ZTT8BJV0Z');
+</script>
+
+</head>
+
+<body>
+  <div class="container">
+    <div class="sidebar">
+    
+        <div class="sidebar-about">
+            <img src="https://d-saikrishna.github.io/assets/me.png">
+            <h1 id="name"></h1>
+            <p id="description" class="lead"></p>
+        </div>
+
+        <ul id="menu" class="sidebar-nav">
+            <!-- <li class="sidebar-nav-item">
+                <a href="https://d-saikrishna.github.io/Blogs/index.html">Blogs</a>
+            -->
+        </ul>
+
+        <ul id="socialmedia" class="sidebar-nav">
+            <!-- <li class="sidebar-nav-external">
+                <img class="externalicon" src="assets/github.png">
+                <a href="https://github.com/d-saikrishna">GitHub</a>abou
+            -->
+        </ul>
+        
+    </div>
+
+    <div class="content">
+        <h1>Krishnapedia</h1>
+        <!-- Filter Buttons -->
+        <button class="nav-button science" onclick="filterBlogs('Science')">Science</button>
+        <button class="nav-button philosophy" onclick="filterBlogs('Philosophy')">Philosophy</button>
+        <button class="nav-button stats" onclick="filterBlogs('Stats')">Stats</button>
+        <button class="nav-button society" onclick="filterBlogs('Society')">Society</button>
+        <button class="nav-button politics" onclick="filterBlogs('Politics')">Politics</button>
+        <button class="nav-button all" onclick="filterBlogs('')">Show All</button>
+
+        <hr />
+
+        <ul id="blog-list" style="list-style: none; padding: 0;"></ul>
+        <p id="no-blogs" style="display:none;">No blogs found</p>
+    </div>
+  </div>
+
+<script src="https://d-saikrishna.github.io/dynamic-sidebar.js"></script>
+<script>
+		let blogs = [];
+		const blogList = document.getElementById('blog-list');
+		const noBlogs = document.getElementById('no-blogs');
+
+		// Fetch the list of markdown files from blogs folder
+		async function loadBlogs() {
+			try {
+				// Fetch the blogs-list.json file that contains metadata
+				const response = await fetch('blogs/blogs-list.json');
+				if (!response.ok) throw new Error('Could not load blogs list');
+				blogs = await response.json();
+				filterBlogs('');
+			} catch (error) {
+				console.error('Error loading blogs:', error);
+				noBlogs.style.display = 'block';
+				noBlogs.textContent = 'Could not load blogs. Make sure blogs-list.json exists.';
+			}
+		}
+
+		function filterBlogs(category) {
+			const filtered = category
+				? blogs.filter(blog => blog.category === category)
+				: blogs;
+
+			// Sort by date (newest first)
+			filtered.sort((a, b) => new Date(b.date) - new Date(a.date));
+
+			blogList.innerHTML = '';
+
+			if (filtered.length === 0) {
+				noBlogs.style.display = 'block';
+				noBlogs.textContent = category ? `No blogs found for "${category}"` : 'No blogs available';
+			} else {
+				noBlogs.style.display = 'none';
+				filtered.forEach(blog => {
+					const link = document.createElement('a');
+					link.href = `blog.html?title=${encodeURIComponent(blog.slug)}`;
+					link.className = `blog-item ${blog.category.toLowerCase()}-border`;
+					
+					// Format date
+					const dateObj = new Date(blog.date);
+					const formattedDate = dateObj.toLocaleDateString('en-US', { 
+						year: 'numeric', 
+						month: 'short', 
+						day: 'numeric' 
+					});
+					
+					link.innerHTML = `
+						<strong>${blog.title}</strong>
+						<span style="float: right; font-size: 0.9em; color: #888;">${formattedDate}</span>
+					`;
+					blogList.appendChild(link);
+				});
+			}
+		}
+
+		// Load blogs when page loads
+		loadBlogs();
+	</script>
+</body>
+</html>
