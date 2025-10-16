@@ -1,5 +1,5 @@
 # Why do you fear my way so much?
-<div style="text-align: center"><img src="blogs/gnsaibaba.jpg" width="80%"/></div>
+<div style="text-align: center"><img src="blogs/gnsaibaba.jpg" width="50%"/></div>
 Poem by Prof GN Saibaba, who was unfairly arrested and tortured by government for a decade.
 
 The question remains: “Why do you fear my way so much?” 

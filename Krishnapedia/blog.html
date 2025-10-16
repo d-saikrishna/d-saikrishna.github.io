@@ -2,9 +2,38 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="icon" href="https://d-saikrishna.github.io/assets/vectorstock_43755881.png" type="image/jpeg">
 	<title>Loading Blog...</title>
 	<link rel="stylesheet" href="https://d-saikrishna.github.io/styles.css">
 	<link rel="stylesheet" href="styles/blog.css">
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.1.0/showdown.min.js"></script>
+  <script type="text/javascript">
+        const originalTitle = document.title;
+
+        document.addEventListener("visibilitychange", function () {
+        if (document.hidden) {
+            document.title = "💔 You left me";
+        } else {
+            document.title = slug.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
+        }
+        });
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "itr8gkl2n0");
+</script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2ZTT8BJV0Z"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'G-2ZTT8BJV0Z');
+</script>
+
 </head>
 <body>
 	<div class="container">
@@ -93,7 +122,14 @@
 									month: 'long', 
 									day: 'numeric' 
 								});
-								dateHtml = `<p style="color: #999; font-size: 0.85em; margin: 0 0 1rem 0; text-align: right;">${formattedDate}</p>`;
+								
+								dateHtml = `
+							<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem;">
+								<a href="index.html" class="back-link" style="text-decoration: none;">&larr; Back to Krishnapedia</a>
+								<p style="color: #999; font-size: 0.85em; margin: 0;">${formattedDate}</p>
+							</div>
+							`;
+
 							}
 							
 							document.getElementById('blog-content').innerHTML = html + dateHtml;

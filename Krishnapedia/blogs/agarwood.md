@@ -2,7 +2,7 @@
 
 <div style="text-align: center;">
   <iframe
-    width="80%"
+    width="50%"
     height="400"
     src="https://www.youtube.com/embed/Z8vGmpBA1C0"
     title="YouTube video player"

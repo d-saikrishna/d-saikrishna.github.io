@@ -19,10 +19,6 @@ body {
 	text-decoration: underline;
 }
 
-article {
-	max-width: 700px;
-}
-
 article h1,
 article h2,
 article h3 {
@@ -32,6 +28,7 @@ article h3 {
 
 article p {
 	margin: 1rem 0;
+	font-size: larger;
 }
 
 article ul {

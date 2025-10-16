@@ -1,5 +1,5 @@
 # Indian Ikigai
-<div style="text-align: center"><img src="blogs/udyogam.jpg" width="80%"/></div>
+<div style="text-align: center"><img src="blogs/udyogam.jpg" width="50%"/></div>
 
 Can this be considered as Indian Ikigai?
 
