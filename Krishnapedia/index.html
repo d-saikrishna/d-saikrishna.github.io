@@ -2,8 +2,6 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link rel="icon" href="https://d-saikrishna.github.io/assets/vectorstock_43755881.png" type="image/jpeg">
 	<title>Krishnapedia</title>
     <link rel="stylesheet" href="https://d-saikrishna.github.io/styles.css">
 	<link rel="stylesheet" href="styles/index.css">
@@ -69,13 +67,12 @@ gtag('config', 'G-2ZTT8BJV0Z');
 
     <div class="content">
         <h1>Krishnapedia</h1>
-		<p>Get these blogs right into your Whatsapp: <a href="https://whatsapp.com/channel/0029Vb7JcGo7dmeW0kWmhG0w">Click here</a></p>
         <!-- Filter Buttons -->
         <button class="nav-button science" onclick="filterBlogs('Science')">Science</button>
         <button class="nav-button philosophy" onclick="filterBlogs('Philosophy')">Philosophy</button>
         <button class="nav-button stats" onclick="filterBlogs('Stats')">Stats</button>
-        <button class="nav-button society" onclick="filterBlogs('Society')">Society</button>
-        <button class="nav-button politics" onclick="filterBlogs('Politics')">Politics</button>
+		<button class="nav-button society" onclick="filterBlogs('Society')">Society</button>
+		<button class="nav-button politics" onclick="filterBlogs('Politics')">Politics</button>
         <button class="nav-button all" onclick="filterBlogs('')">Show All</button>
 
         <hr />
@@ -108,7 +105,11 @@ gtag('config', 'G-2ZTT8BJV0Z');
 
 		function filterBlogs(category) {
 			const filtered = category
-				? blogs.filter(blog => blog.category === category)
+				? blogs.filter(blog => {
+					// Handle multiple categories separated by space
+					const categories = blog.category.split(' ');
+					return categories.includes(category);
+				})
 				: blogs;
 
 			// Sort by date (newest first)
@@ -124,20 +125,63 @@ gtag('config', 'G-2ZTT8BJV0Z');
 				filtered.forEach(blog => {
 					const link = document.createElement('a');
 					link.href = `blog.html?title=${encodeURIComponent(blog.slug)}`;
-					link.className = `blog-item ${blog.category.toLowerCase()}-border`;
 					
-					// Format date
-					const dateObj = new Date(blog.date);
-					const formattedDate = dateObj.toLocaleDateString('en-US', { 
-						year: 'numeric', 
-						month: 'short', 
-						day: 'numeric' 
-					});
+					// Handle multiple categories
+					const categories = blog.category.split(' ');
+					link.className = `blog-item`;
 					
-					link.innerHTML = `
-						<strong>${blog.title}</strong>
-						<span style="float: right; font-size: 0.9em; color: #888;">${formattedDate}</span>
-					`;
+					// Create multiple colored bars for multiple categories
+					if (categories.length > 1) {
+						const colors = {
+							'science': '#007bff',
+							'philosophy': '#28a745',
+							'stats': '#c200b8',
+							'society': '#ff4d07',
+							'politics': '#000000'
+						};
+						const borderColors = categories.map(cat => colors[cat.toLowerCase()] || '#ccc');
+						link.style.borderLeft = 'none';
+						link.style.paddingLeft = '1rem';
+						link.style.position = 'relative';
+						
+						// Create pseudo-element style for multiple bars
+						const barsHtml = borderColors.map((color, i) => 
+							`<span style="position: absolute; left: ${i * 7}px; top: 0; bottom: 0; width: 5px; background-color: ${color};"></span>`
+						).join('');
+						
+						// Format date
+						const dateObj = new Date(blog.date);
+						const formattedDate = dateObj.toLocaleDateString('en-US', { 
+							year: 'numeric', 
+							month: 'short', 
+							day: 'numeric' 
+						});
+						
+						link.innerHTML = `
+							${barsHtml}
+							<div style="margin-left: ${categories.length * 7}px;">
+								<strong>${blog.title}</strong>
+								<span style="float: right; font-size: 0.9em; color: #888;">${formattedDate}</span>
+							</div>
+						`;
+					} else {
+						// Single category - use normal border
+						link.className = `blog-item ${categories[0].toLowerCase()}-border`;
+						
+						// Format date
+						const dateObj = new Date(blog.date);
+						const formattedDate = dateObj.toLocaleDateString('en-US', { 
+							year: 'numeric', 
+							month: 'short', 
+							day: 'numeric' 
+						});
+						
+						link.innerHTML = `
+							<strong>${blog.title}</strong>
+							<span style="float: right; font-size: 0.9em; color: #888;">${formattedDate}</span>
+						`;
+					}
+					
 					blogList.appendChild(link);
 				});
 			}

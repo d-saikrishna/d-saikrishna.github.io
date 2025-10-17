@@ -1,19 +1,18 @@
-# Paying the right price
+# The poor subsidise the lives of the rich
 <div style="text-align: center;">
   <iframe
-    width="50%"
-    height="400"
     src="https://www.youtube.com/embed/WAxRLkZyKpI"
     title="YouTube video player"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen>
+    allowfullscreen
+    style="width: 100%; max-width: 500px; height: 400px;">
   </iframe>
 </div>
 
 What if I say that your lifestyle has been subsided by the poor?
 
-When we talk about subsidies, our mental image is often the rich paying for the poor because the latter cannot afford them.
+When we talk about subsidies, our mental image is often the rich paying for the poor because they cannot afford.
 
 But what if I say that even the poor subsidize the rich?
 
