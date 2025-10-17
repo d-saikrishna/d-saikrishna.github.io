@@ -1,5 +1,5 @@
 # Violence vs Violation
-<div style="text-align: center"><img src="blogs/violence-violation.jpg" width="50%"/></div>
+<div style="text-align: center"><img src="blogs/violence-violation.jpg" style="width: 100%; max-width: 500px;"/></div>
 
 Devdutt Pattanaik explains ‘violence’ vs ‘violation’ in “My Gita” using the story of Gajendra Moksha.
 

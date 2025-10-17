@@ -1,5 +1,5 @@
 # Absurdism vs Nihilism
-<div style="text-align: center"><img src="blogs/absurdism-nihilism.jpg" width="50%"/></div>
+<div style="text-align: center"><img src="blogs/absurdism-nihilism.jpg" style="width: 100%; max-width: 500px;"/></div>
 
 I understood Nihilism vs Absurdism this way. 
 

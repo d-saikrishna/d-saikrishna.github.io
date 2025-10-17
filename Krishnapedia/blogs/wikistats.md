@@ -1,5 +1,5 @@
 # A bad experiment by Wikipedia
-<div style="text-align: center"><img src="blogs/wikistats.jpg" width="50%"/></div>
+<div style="text-align: center"><img src="blogs/wikistats.jpg" style="width: 100%; max-width: 500px;"/></div>
 
 Wikipedia once found that having the square corners to their donation box reduced number of donations by 15%, when compared to rounded corners.
 

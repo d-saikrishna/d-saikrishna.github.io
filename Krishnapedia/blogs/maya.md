@@ -1,5 +1,5 @@
 # Maya
-<div style="text-align: center"><img src="blogs/maya.jpg" width="50%"/></div>
+<div style="text-align: center"><img src="blogs/maya.jpg" style="width: 100%; max-width: 500px;"/></div>
 
 I was at a wedding and a friend asked me how I see ritualistic wedding games. It reminded me of this sketch from Devdutt Pattanaik’s “My Gita”.
 

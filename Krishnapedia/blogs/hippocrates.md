@@ -1,5 +1,5 @@
 # Bald Hippocrates
-<div style="text-align: center"><img src="blogs/hippocrates.jpg" width="50%"/></div>
+<div style="text-align: center"><img src="blogs/hippocrates.jpg" style="width: 100%; max-width: 500px;"/></div>
 
 Men suffering from hairloss must have come across DHT by now. 
 

@@ -1,13 +1,12 @@
 # Even musical instruments have caste: Dappu
 <div style="text-align: center;">
   <iframe
-    width="50%"
-    height="400"
     src="https://www.youtube.com/embed/J8QOvhVwtZo"
     title="YouTube video player"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen>
+    allowfullscreen
+    style="width: 100%; max-width: 500px; height: 400px;">
   </iframe>
 </div>
 
