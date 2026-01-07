@@ -16,7 +16,7 @@ function openTab(tabName) {
 // On page load, check if URL has a hash
 window.addEventListener("load", () => {
     let tab = window.location.hash.substring(1); // remove '#'
-    if (!tab) tab = "research"; // default tab
+    if (!tab) tab = "essays"; // default tab
     openTab(tab);
 });
 
@@ -41,7 +41,7 @@ function loadTabContent(tabName) {
 
 // Load the content of the first tab by default when the page loads
 window.onload = function () {
-    loadTabContent('research');
+    loadTabContent('essays');
 };
 
 // function togglePost(dir,postName) {
