@@ -34,7 +34,7 @@ h1 {
 .nav-button.stats {
 	background-color: #c200b8;
 }
-.nav-button.society {
+.nav-button.culture {
 	background-color: #ff4d07;
 }
 .nav-button.politics {
@@ -71,7 +71,7 @@ h1 {
 .stats-border {
 	border-color: #c200b8;
 }
-.society-border {
+.culture-border {
 	border-color: #ff4d07;
 }
 .politics-border {

@@ -1,5 +1,11 @@
 [
   {
+    "title": "What is Literature?",
+    "category": "Culture",
+    "slug": "literature",
+    "date": "2026-01-08"
+  },
+  {
     "title": "Ode to Popular Science Books",
     "category": "Science",
     "slug": "popularscience",
@@ -7,7 +13,7 @@
   },
   {
     "title": "Individualism",
-    "category": "Society",
+    "category": "Culture",
     "slug": "individualism",
     "date": "2025-12-28"
   },
@@ -37,7 +43,7 @@
   },
   {
     "title": "How are children born?",
-    "category": "Stats Society",
+    "category": "Stats Culture",
     "slug": "children",
     "date": "2025-11-06"
   },
