@@ -14,14 +14,7 @@ About 4000 years ago, people of Mesopotamia (~Iraq) discovered the magic of brew
 Naturally, they also wrote a lot of stories and hymns in her praise. One such hymn is the “Hymn to Ninkasi”, which contains the world’s first recipe of brewing Beer.
 
 <div style="text-align: center;">
-  <iframe
-    src="https://youtu.be/vjTrrU6d6fA?si=78vjFs0u68LOOLvK"
-    title="YouTube video player"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen
-    style="width: 100%; max-width: 500px; height: 400px;">
-  </iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/vjTrrU6d6fA?si=yZa_5FhDMnaaN0Y9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 > Literature is the presentation of natural truths in a beautiful way
