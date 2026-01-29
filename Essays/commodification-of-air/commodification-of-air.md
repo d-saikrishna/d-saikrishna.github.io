@@ -1,6 +1,6 @@
 # Commodification of Air
 
-A human breathes about 15 kg of air per day. The total amount of air in the world in the lowest 2 meters of the atmosphere is approximately 1.25 quadrillion kilograms (1.25 * 1015 kg) and it is replenished everyday by photosynthesis (O2), outgassing (N2) and several other processes. Even if we consider that the human population would reach 10 Billions, each human would still have 1.25 * 105 kg of air to breathe. That is ~8000 times what an average human needs. There should be no shortage of air for any human. Or for any living thing.
+A human breathes about 15 kg of air per day. The total amount of air in the world in the lowest 2 meters of the atmosphere is approximately 1.25 quadrillion kilograms (1.25 * 10<sup>15</sup> kg) and it is replenished everyday by photosynthesis (O2), outgassing (N2) and several other processes. Even if we consider that the human population would reach 10 Billions, each human would still have 1.25 * 10<sup>5</sup> kg of air to breathe. That is ~8000 times what an average human needs. There should be no shortage of air for any human. Or for any living thing.
 
 Air is thus classified as a public good. It qualifies both defining characteristics of a public good.
 
