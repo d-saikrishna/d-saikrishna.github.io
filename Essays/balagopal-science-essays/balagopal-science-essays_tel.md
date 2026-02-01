@@ -1,6 +1,6 @@
 # బాలగోపాల్ సైన్స్ వ్యాసాలు | పుస్తక సమీక్ష
 
-<div style="text-align: center"><img src="balagopal-science-essays.jpg" width="50%"/> <br><a href="https://balagopal.org/23-science-vyasaalu/"> బాలగోపాల్ సైన్స్ వ్యాసాలు</a>
+<div style="text-align: center"><img src="balagopal-science-essays/balagopal-science-essays.jpg" width="50%"/> <br><a href="https://balagopal.org/23-science-vyasaalu/"> బాలగోపాల్ సైన్స్ వ్యాసాలు</a>
  </div>
 
 4 వ్యాసాలు, 28 పేజీలు ఇంత ఆలోచింప చేస్తాయి అని అనుకోలేదు.

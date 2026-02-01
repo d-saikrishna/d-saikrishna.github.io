@@ -1,7 +1,7 @@
 # Balagopal Science Essays | book review
 *This book review is originally written in Telugu. The following is an AI assisted English translation*
 
-<div style="text-align: center"><img src="balagopal-science-essays.jpg" width="50%"/> <br><a href="https://balagopal.org/23-science-vyasaalu/"> Balagopal Science Essays</a>
+<div style="text-align: center"><img src="balagopal-science-essays/balagopal-science-essays.jpg" width="50%"/> <br><a href="https://balagopal.org/23-science-vyasaalu/"> Balagopal Science Essays</a>
  </div>
 
 I didn’t expect four essays, just 28 pages, to provoke this much thought.
