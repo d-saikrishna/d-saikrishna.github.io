@@ -1,9 +1,8 @@
 # What is Literature?
 
 I came across a definition of literature in a course taught by Prof. Chintakindi Kasim. English definition of that definition would be:
-`
-Literature is the presentation of natural truths in a beautiful way. 
-`
+
+> Literature is the presentation of natural truths in a beautiful way. 
 
 The focus is on two words here: *truth* and *beautiful*
 
