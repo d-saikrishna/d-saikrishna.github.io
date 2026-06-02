@@ -1,5 +1,5 @@
 # Keeping death in perspective
-<div style="text-align: center"><img src="en.wikipedia.org/wiki/When_Breath_Becomes_Air#/media/File:When_Breath_Becomes_Air.jpg" style="width: 100%; max-width: 500px;"/></div>
+<div style="text-align: center"><img src="https://www.theopex.com/wp-content/uploads/2016/04/When-Breath-Becomes-Air.jpg" style="width: 100%; max-width: 500px;"/></div>
 
 **“Do you want to know how would you die? Or when you would die?”**
 
