@@ -1,8 +1,14 @@
 [{
+    "title": "Nature walking",
+    "category": "Philosophy",
+    "slug": "walking",
+    "date": "2026-06-24"
+  },
+  {
     "title": "The problem of production (& consumption)",
     "category": "Politics",
     "slug": "problem-production",
-    "date": "2026-06-26"
+    "date": "2026-06-19"
   },
   {
     "title": "The statistical mind of Virginia Woolf",

@@ -2,7 +2,7 @@
 
 I’m re-reading _Small is Beautiful_ and I feel it has some useful models to think about economy and life in general.
 
-<div style="text-align: center"><img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1770070208i/1117634.jpg" style="width: 100%; max-width: 500px;"/></div>
+<div style="text-align: center"><img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1770070208i/1117634.jpg" style="width: 100%; max-width: 300px;"/></div>
 
 
 In the first chapter, Schumacher diagnoses that the _problem of production (and our consumption)_ is not yet solved as we want to delude ourselves. 
@@ -18,3 +18,6 @@ We should do agriculture in such a way that soil quality is preserved, along wit
 We should do industry in such a way that worker quality should be improved, along with producing goods.
 
 We all re-invest the interest from our FDs to increase the size of the FD. Compounding! We know this logic. We should just apply it on a wider scale. 
+
+
+<div style="text-align: center"><img src="https://media.springernature.com/lw1200/springer-static/image/art%3A10.1007%2Fs11625-024-01600-8/MediaObjects/11625_2024_1600_Fig2_HTML.png" style="width: 100%; max-width: 500px;"/> <br><a href="https://link.springer.com/article/10.1007/s11625-024-01600-8">Source</a></div>
