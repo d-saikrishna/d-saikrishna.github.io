@@ -1,6 +1,18 @@
 [{
+    "title": "A critique of elite environmentalism",
+    "category": "Politics",
+    "slug": "guha",
+    "date": "2026-07-13"
+  },
+  {
+    "title": "Assign a purpose to your notebooks",
+    "category": "Misc",
+    "slug": "singlepurposenotebooks",
+    "date": "2026-07-12"
+  },
+  {
     "title": "Nature walkers! Assemble!",
-    "category": "Philosophy",
+    "category": "Misc",
     "slug": "walking",
     "date": "2026-06-24"
   },
@@ -12,7 +24,7 @@
   },
   {
     "title": "The statistical mind of Virginia Woolf",
-    "category": "Culture Stats",
+    "category": "Culture Science",
     "slug": "woolf-stats",
     "date": "2026-06-14"
   },
@@ -30,7 +42,7 @@
   },
   {
     "title": "Uncertainty is God",
-    "category": "Philosophy Stats",
+    "category": "Philosophy Science",
     "slug": "uncertainty-god",
     "date": "2026-04-21"
   },
@@ -102,7 +114,7 @@
   },
   {
     "title": "How are children born?",
-    "category": "Stats Culture",
+    "category": "Science Culture",
     "slug": "children",
     "date": "2025-11-06"
   },
@@ -138,7 +150,7 @@
   },
   {
     "title": "A bad experiment by Wikipedia",
-    "category": "Stats",
+    "category": "Science",
     "slug": "wikistats",
     "date": "2025-10-15"
   },

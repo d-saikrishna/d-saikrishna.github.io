@@ -31,7 +31,7 @@ h1 {
 .nav-button.philosophy {
 	background-color: #28a745;
 }
-.nav-button.stats {
+.nav-button.misc {
 	background-color: #c200b8;
 }
 .nav-button.culture {
@@ -68,7 +68,7 @@ h1 {
 .philosophy-border {
 	border-color: #28a745;
 }
-.stats-border {
+.misc-border {
 	border-color: #c200b8;
 }
 .culture-border {
