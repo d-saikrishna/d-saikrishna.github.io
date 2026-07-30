@@ -1,6 +1,10 @@
-# Today's case for reservation
+# Thinking about reservations
 
-Whenever there’s a debate on the reservation policy, the proponents bring upon the historical justification for it — that the communities have been discriminated against and not allowed to access education, social mobility, etc. While historical justification has its place, we should also seek justification for today, to ensure that the policy is serving its purpose.
+Whenever there’s a debate on the reservation policy, the proponents bring upon the historical justification for it — that the communities have been discriminated against and not allowed to access education, social mobility, etc. While historical justification has its place, we should also seek justification for today, to ensure that the policy is serving its purpose. There are two justifications I can think of:
+1. Lack of rule of law necessiates representation of oppressed communities in the administration.
+2. To balance the 'unwritten' reservations the forward castes anyway have.
+
+## Lack of rule of law necessiates representation of oppressed communities in the administration
 
 Let’s take the issue of atrocities against SC/STs and see the relevance of reservation of SC/ST in this context.
 
@@ -19,12 +23,23 @@ Thus comes the case of reservation. It comes from the assumption that if the vic
 If the law works on auto-pilot mode, this arrangement is probably not needed. It is our failure to create a rule of law that necessitates reservation.
 
 The same logic applies to make a case for the reservation of women, LGBTQ, and other marginalized sections of society. And the same logic makes me believe that income-based reservation has converted reservation policy into a policy for economic justice, while it is supposed to be a policy for social justice.
+
+## To balance the 'unwritten' reservations the forward castes anyway have.
+
+This argument is compellingly made by K Balagopal in the essay, [This Anti Mandal Mania](https://balagopal.org/this-anti-mandal-mania/). In brief, K Balagopal rejects the concept of 'merit' as an ideological falsehood. It is one of the few essays that doesn't require a summary, so please read the following excerpts and I'm sure you'd read the full essay later. 
+
+<div style="text-align: center"><img src="reservation/merit.jpg" width="50%"/></div>
+<div style="text-align: center"><img src="reservation/connections.jpg" width="50%"/></div>
+<div style="text-align: center"><img src="reservation/knowledge.jpg" width="50%"/></div>
+
+```It is precisely because reservations attack the caste system, an attack that Indian polity can ill afford, that there is so much fuss against them. ~ K Balagopal```
+
+
 <hr style="border:1px solid gray">
 
-**Update**
-Are reservations the only way to achieve this representation? Are there no better methods? Certainly not. There will always be scope for improvement. And that should be a matter of debate. Here are a few alternative designs for affirmative action:
+Are reservations the only way to achieve these ends? Are there no better methods? Certainly not. There will always be scope for improvement. And that should be a matter of debate. Here are a few alternative designs for affirmative action:
 1. [Indirect Affirmative Action](https://indianexpress.com/article/opinion/columns/a-better-design-for-social-justice/): Tarunabh Khaitan suggests that affirmative action be given using more secular criteria instead of identity and group membership criteria. For example, assuming that SCs and STs are major benefeciaries of MGNREGA scheme, he suggests that affirmative action be given to members/families of MGNREGA beneficiary. This way, the intented representation can be achieved and other issues with reservation (rich people getting undue benefits) can also be addressed. It requires a lot of sociological studies on finding the correlations between the group memberships and secular criterion to be targetted.
-2. [Inequity Score](https://www.firstpost.com/india/look-beyond-quotas-for-equality-6650451.html):  Pranay Kotasthane and Nitin Pai suggest that every candidate be given an inequity score, calculated based on the diadvantage faced by that candidate. This score will be used along with other scores (exams) in giving out the final rank list. Technically there is no "reservation" or a "quota". People from this rank list will be selected.
+2. [Inequity Score](https://www.firstpost.com/india/look-beyond-quotas-for-equality-6650451.html):  Pranay Kotasthane and Nitin Pai suggest that every candidate be given an inequity score, calculated based on the disadvantage faced by that candidate. This score will be used along with other scores (exams) in giving out the final rank list. Technically there is no "reservation" or a "quota". People from this rank list will be selected.
 
 Debates on reservation should start here. Any calls to outright remove it because it lacks "merit", just comes from historical amnesia and privilege.
 
@@ -33,5 +48,6 @@ Debates on reservation should start here. Any calls to outright remove it becaus
 1. [Anand Teltumbde on how the misuse of the law is a bogey.](https://economictimes.indiatimes.com/news/politics-and-nation/why-the-misuse-of-the-sc/st-act-is-nothing-but-a-bogey/articleshow/63648662.cms?from=mdr)
 2. [Supreme Court on how low convictions is due to shoddy investigation](https://www.hindustantimes.com/india-news/fewer-convictions-in-sc-st-cases-due-to-shoddy-investigations-supreme-court-101635531834261.html)
 3. [Ethnographic reading of the SC/ST Atrocities act](https://thewire.in/caste/dark-realities-sc-st-atrocities-act-ethnographic-reading)
+4. [This Anti Mandal Mania](https://balagopal.org/this-anti-mandal-mania/) - An Essay by K Balagopal.
 
 <hr style="border:1px solid gray">
