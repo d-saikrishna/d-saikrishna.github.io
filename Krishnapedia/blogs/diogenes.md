@@ -9,5 +9,12 @@ On a sunny winter day, Alexander the ‘Great’ went to visit a philosopher Dio
 Diogenes replied, *“Yes, just move aside. You are blocking my sunlight.”*
 
 Diogenes was at peace wanting nothing. Alexander was powerless infront of Diogenes, a naked philosopher. He thus said, *“If I weren’t Alexander, I’d be Diogenes.”*
+
 —
-Most wants are artificial voids manufactured to wield power over us. There is no void, or atleast I'd want to believe that there is no void. Our actions can be guided by necessity and curiosity, but never with insecurity.
+
+Most wants are artificial voids manufactured to wield power over us. There is no void, or atleast I'd want to believe that there is no void.
+The invocation mantra of the Ishavasya Upanishad says, **"पूर्णमदः पूर्णमिदं"**: *That is whole; this is whole.* There is no void.
+
+<div style="text-align: center"><img src="https://imgv2-1-f.scribdassets.com/img/document/518832620/original/75812224ce/1?v=1" style="width: 100%; max-width: 500px;"/></div>
+
+Our actions can be guided by necessity and curiosity, but never with insecurity or void.
