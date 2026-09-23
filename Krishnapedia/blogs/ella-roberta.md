@@ -4,7 +4,7 @@
 
 Several statistical studies have attributed a large number of deaths to air pollution. One such study reported that [7.2% of all daily deaths across ten Indian cities were attributable to PM2.5 concentrations exceeding WHO guidelines.](https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196%2824%2900114-1/fulltext). Also see: [Deaths from Ambient Air Pollution.](https://lancetcountdown.org/air-pollution-and-health/)
 
-![alt text](ella-roberta.webp)
+<div style="text-align: center"><img src="blogs/ella-roberta.webp" style="width: 100%; max-width: 500px;"/></div>
 
 Different methods produce different estimates, but none of them seem to be enough to make the government acknowledge that air pollution is fatal. In 2025, the government stated in Parliament that ["There is no conclusive data available to establish a direct correlation of death/disease exclusively due to air pollution."](https://sansad.in/getFile/annex/253/AU1477.pdf?source=pqars)
 
