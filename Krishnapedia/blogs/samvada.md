@@ -1,16 +1,10 @@
 # Engage in Samvada only
 
 This is a useful classification of arguments.
+<div align="center">
 
-<div style="text-align: center;">
-  <iframe
-    src="https://www.instagram.com/reel/DbYEPV4k5C5/?stkn=dnl2ajZncWwxYjJq"
-    title="YouTube video player"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen
-    style="width: 100%; max-width: 500px; height: 400px;">
-  </iframe>
+[![Watch Instagram Reel](https://img.shields.io/badge/▶%20Watch%20Instagram%20Reel-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/reel/DbYEPV4k5C5/)
+
 </div>
 
 **Samvada**: Logical argument based on facts. Both arguers remain humble that they know only partial truth and argue with an intent to arrive at truth.
