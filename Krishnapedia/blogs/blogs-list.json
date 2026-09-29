@@ -1,4 +1,16 @@
 [{
+    "title": "Engage in Samvada only",
+    "category": "Philosophy",
+    "slug": "samvada",
+    "date": "2026-09-29"
+  },
+  {
+    "title": "Narrative Bias",
+    "category": "Misc",
+    "slug": "narratives",
+    "date": "2026-09-28"
+  },
+  {
     "title": "Tools for Conviviality",
     "category": "Science Philosophy",
     "slug": "conviviality",
